@@ -17,3 +17,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/dunchm4n/QRC.git
 cd QRC
+python main.py
